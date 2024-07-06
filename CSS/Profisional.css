@@ -1,0 +1,19 @@
+.yogdu {
+    width: 700px;
+    height: 600px;
+    position: fixed;
+    top: 100px;
+    background-color: #333;
+    border-radius: 40px;
+    display: none;
+}
+
+.cain {
+    width: 700px;
+    height: 600px;
+    position: fixed;
+    top: 100px;
+    background-color: #333;
+    border-radius: 40px;
+    display: inline;
+}
